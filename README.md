@@ -1,2 +1,10 @@
-# IT5016_ASSESSMENT3_20241046
-Research Repository for IT5016D - Assessment 3 by Jyoti Singh
+IT5016D – Assessment 3: Research Repository
+Student Name:Jyoti Singh  
+Student ID:20241046  
+
+This repository is for IT5016D - Assessment 3.  
+It will include:
+- My own code
+- Practice/inspired code
+- Analysis of design principles and patterns
+- Commentary on programming concepts
